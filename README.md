@@ -95,6 +95,7 @@ There are three scripts used to generate data.  They should all be run from the 
 
 `hyperband_mas.py` functions similarly, but runs the Hyperband optimizer to decide how long to train various models.  See [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/abs/1603.06560).
 
+**NOTE** that this process saves all models that are generated, and some can be several MB large.  This means it will very rapidly take up a lot of storage.  Plan accordingly.
 
 Lastly, the MetaQNN algorithm, from [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167), was also tested in our accompanying publication.  This data was generated via a fork of the authors' repository.  The fork can be found at [https://github.com/dylancashman/metaqnn](https://github.com/dylancashman/metaqnn).
 
