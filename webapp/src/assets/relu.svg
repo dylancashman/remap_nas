@@ -1,0 +1,5 @@
+<!-- Based on StackOverflow answer @Harry https://stackoverflow.com/a/40394347/540675 -->
+<svg viewBox='0 0 1000 1000'>
+  <!-- Actual tanh curve -->
+  <path d='M0,500 L500,500 L1000,50' fill="none" stroke="black" stroke-width="120" />
+</svg>
