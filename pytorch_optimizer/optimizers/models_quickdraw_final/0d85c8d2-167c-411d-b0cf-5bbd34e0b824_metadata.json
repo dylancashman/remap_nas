@@ -1,0 +1,1 @@
+{"id": "0d85c8d2-167c-411d-b0cf-5bbd34e0b824", "_layers": [{"type": "MaxPool", "pool_size": 5}, {"type": "Dense", "units": 256}, {"type": "Activation", "activation": "tanh"}, {"type": "Dense", "units": 10}], "trainedEpochs": 0}

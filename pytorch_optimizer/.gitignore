@@ -1,0 +1,11 @@
+data/cifar-10-python.tar.gz
+data/*
+models/*
+*.json
+*.out
+__pycache__
+optimizers/__pycache__
+optimizers/cifar
+*.pyc
+.ipynb_checkpoints
+models_20190226 

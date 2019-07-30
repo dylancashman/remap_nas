@@ -1,0 +1,1 @@
+{"id": "00260cd6-d2f6-444f-aea7-3d8745fe18fa", "_layers": [{"type": "Conv2D", "strides": "1", "kernel_size": 3, "filters": 32}, {"type": "MaxPool", "pool_size": 2}, {"type": "MaxPool", "pool_size": 2}, {"type": "Dense", "units": 10}], "trainedEpochs": 0}

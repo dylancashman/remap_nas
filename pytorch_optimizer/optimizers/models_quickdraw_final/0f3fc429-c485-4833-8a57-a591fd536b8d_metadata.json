@@ -1,0 +1,1 @@
+{"id": "0f3fc429-c485-4833-8a57-a591fd536b8d", "_layers": [{"type": "Activation", "activation": "tanh"}, {"type": "Dropout", "rate": 0.25}, {"type": "Activation", "activation": "tanh"}, {"type": "Conv2D", "strides": "1", "kernel_size": 3, "filters": 16}, {"type": "MaxPool", "pool_size": 3}, {"type": "Dropout", "rate": 0.25}, {"type": "Dense", "units": 10}], "trainedEpochs": 0}
