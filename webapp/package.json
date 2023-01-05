@@ -30,7 +30,7 @@
     "@types/d3": "^5.0.0",
     "@types/lodash": "^4.14.110",
     "@vue/cli-plugin-typescript": "^3.4.1",
-    "@vue/cli-service": "^3.4.1",
+    "@vue/cli-service": "^5.0.8",
     "html-loader": "^0.5.5",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.0.1",
